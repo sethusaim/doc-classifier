@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 demo.py
-
+.terraform
+.terraform.lock.hcl
 # Distribution / packaging
 .Python
 build/
